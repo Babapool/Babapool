@@ -6,10 +6,10 @@
 
 ### About Me
 
-- 🏫 CS undergrad
-- ⛵ Open Source enthusiast | Contributor at [Kubernetes](https://github.com/kubernetes), want to start contributing to more projects 
-- ✅ Reviewer - K8s Hindi Docs
-- 🌱 Learning Go, DevOps and Cloud Native stuff
+- 🎓 CS undergrad
+- ✅ Open Source contributor | Contributor at [Kubernetes](https://github.com/kubernetes), want to start contributing to more projects 
+- 👀 Reviewer - K8s Hindi Docs
+- 📖📂 Learning Go, DevOps and Cloud Native stuff
 - 📚 Love to learn in public: want to start writing blogs on stuff that I am learning
 
 ### <🛠⚒> My Toolbox
