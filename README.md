@@ -48,7 +48,14 @@
 </a>
 
 ### <✍> My blogs
-![Coming Soon](https://media2.giphy.com/media/UYpelo7WbjZQg0dDQY/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71212&width=435&lines=Loading+coming+soon............................)](https://git.io/typing-svg)
+
+### <📈📊> GitHub Statistics
+  
+  <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Babapool&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Babapool&theme=tokyonight" />
+</p>
 
 <!--
 **Babapool/Babapool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
